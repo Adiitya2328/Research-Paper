@@ -176,7 +176,7 @@ The work contributes to advancing cross-linguistic communication through scalabl
 
 - 📄 Research Paper (PDF)
 - 🏆 Research Certificate
-- 📘 Documentation
+
 
 ---
 
@@ -191,13 +191,6 @@ The study references works published in:
 - IEEE Conferences
 
 (Full references available in the research paper.)
-
----
-
-## 👤 Author
-
-**Aditya Raj**  
- Multilingual NLP & AI-Powered Language Systems  
 
 ---
 
